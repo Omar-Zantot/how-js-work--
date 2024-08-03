@@ -1,4 +1,4 @@
-# JavaScript Key Concepts
+# 📝 JavaScript Key Concepts
 
 ## 🌐 Interpreted or Just-In-Time Compiled Language
 
